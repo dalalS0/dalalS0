@@ -1,7 +1,6 @@
 - 👋 Hi, I’m dalal
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning more about android and ios development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning more about android and ios app development
 - 📫 How to reach me : dalalk019@gmail.com
 
 
